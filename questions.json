@@ -1,0 +1,27 @@
+[
+    {
+      "question": "¿Cuántas cervezas nos debe Raúl?",
+      "answer": "infinitas",
+      "hint": "no puede pagarlas",
+      "id": 0
+    }, 
+    {
+      "question": "¿A qué es intolerante Cillas?",
+      "answer": "cerveza",
+      "hint": "Es una falsa intolerancia",
+      "id": 1
+    },
+   {
+      "question": "Cuál es el bar de reunión de los viernes?",
+      "answer": "leka leka",
+      "hint": "necesitas una, en serio?",
+      "id": 2
+    },
+    {
+      "question": "¿De dónde es Mikel?",
+      "answer": "bergara",
+      "hint": "es de donde quiere, pero solo nació en un sitio",
+      "id": 3
+    }
+]
+
